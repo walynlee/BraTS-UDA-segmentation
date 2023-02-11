@@ -2,7 +2,7 @@
 
 ### Paper
 
-![image-20230211205933970](C:\Users\wuliwan\AppData\Roaming\Typora\typora-user-images\image-20230211205933970.png)
+![](https://gitee.com/walynlee/upload-image/raw/master/image-20230211205933970.png)
 
 ### Abstract
 
@@ -10,6 +10,6 @@ The brain tumor segmentation task with different domains remains a major challen
 
 ### Demo
 
-![image-20230211210105674](C:\Users\wuliwan\AppData\Roaming\Typora\typora-user-images\image-20230211210105674.png)
+![image-20230211215308987](https://gitee.com/walynlee/upload-image/raw/master/image-20230211215308987.png)
 
-![image-20230211210117353](C:\Users\wuliwan\AppData\Roaming\Typora\typora-user-images\image-20230211210117353.png)
+![image-20230211215322018](https://gitee.com/walynlee/upload-image/raw/master/image-20230211215322018.png)
