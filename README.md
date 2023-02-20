@@ -13,3 +13,5 @@ The brain tumor segmentation task with different domains remains a major challen
 ![image-20230211215308987](https://gitee.com/walynlee/upload-image/raw/master/image-20230211215308987.png)
 
 ![image-20230211215322018](https://gitee.com/walynlee/upload-image/raw/master/image-20230211215322018.png)
+
+Full paper preview at Google link: https://drive.google.com/file/d/1QLBoiYwBsS7VA9LEWR554w8jKDP85vY4/view?usp=sharing
